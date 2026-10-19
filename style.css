@@ -149,3 +149,9 @@ footer {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+.logo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
